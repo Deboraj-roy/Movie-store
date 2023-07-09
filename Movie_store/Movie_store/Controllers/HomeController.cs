@@ -8,5 +8,9 @@ namespace Movie_store.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            return View();
+        }
     }
 }
