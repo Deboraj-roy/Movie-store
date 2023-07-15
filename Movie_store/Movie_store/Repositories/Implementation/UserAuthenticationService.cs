@@ -65,7 +65,7 @@ namespace Movie_store.Repositories.Implementation
         public async Task<Status> LoginAsync(LoginModel model)
         {
             var status = new Status();
-            var user = await userManager.FindByNameAsync(model.UserNmae);
+            var user = await userManager.FindByNameAsync(model.UserName);
             if (user == null)
             {
                 status.StatusCode = 0;
