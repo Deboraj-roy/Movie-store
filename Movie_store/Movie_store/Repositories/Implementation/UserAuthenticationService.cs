@@ -23,7 +23,7 @@ namespace Movie_store.Repositories.Implementation
         public async Task<Status> RegisterAsync(RegistrationModel model)
         {
             var status = new Status();
-            var userExists = await userManager.FindByNameAsync(model.UserNmae);
+            var userExists = await userManager.FindByNameAsync(model.UserName);
             if (userExists != null)
             {
                 status.StatusCode = 0;
@@ -34,7 +34,7 @@ namespace Movie_store.Repositories.Implementation
             {
                 Email = model.Email,
                 SecurityStamp = Guid.NewGuid().ToString(),
-                UserName = model.UserNmae,
+                UserName = model.UserName,
                 Name = model.Name,
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true,

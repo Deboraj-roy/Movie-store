@@ -11,7 +11,7 @@ namespace Movie_store.Models.DTO
         [EmailAddress]
         public string Email { get; set; }
 
-        public string UserNmae { get; set; }
+        public string UserName { get; set; }
 
         [Required]
         [RegularExpression("^(?=.*[A-Z])(?=.*[a-z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$")]
