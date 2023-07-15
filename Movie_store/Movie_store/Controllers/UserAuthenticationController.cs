@@ -34,5 +34,33 @@ namespace Movie_store.Controllers
             var result = await _authServices.RegisterAsync(model);
             return Ok(result.Message);
         }
+
+
+        public async Task<IActionResult> Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginModel model)
+        {
+            if (!ModelState.IsValid)
+                return View(model);
+
+            var result = await _authServices.LoginAsync(model);
+            if (result.StatusCode == 1)
+                return RedirectToAction("Index", "Home");
+            else
+            {
+                TempData["msg"] = "Could not logged in..";
+                return RedirectToAction(nameof(Login));
+            }
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await _authServices.LogoutAsync();
+            return RedirectToAction(nameof(Login));
+        }
     }
 }
