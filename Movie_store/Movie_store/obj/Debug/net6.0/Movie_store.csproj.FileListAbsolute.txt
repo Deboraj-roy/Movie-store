@@ -252,16 +252,3 @@ C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debu
 C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\Google.Protobuf.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\ZstdNet.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\comerr64.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\gssapi64.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\k5sprt64.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\krb5_64.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\krbcc64.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
-C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\bin\Debug\net6.0\BouncyCastle.Crypto.dll
