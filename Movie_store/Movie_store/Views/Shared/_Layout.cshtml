@@ -49,7 +49,15 @@
         @RenderBody()
     </div>
     <footer>
-        &#169; 2023 DEBORAJ ROY
+        <h5>ASP .NET © Project  | by DEBORAJ ROY</h5>
+        <br>
+        <h5>You can contact me at (01708119559) | Current date in server <?php echo date('d-m-Y'); ?></h5>
+        <p id="a"></p>
+        <script>
+            setInterval(function () {
+                document.getElementById("a").innerHTML = new Date();
+            }, 1000);
+        </script>
     </footer>
 </body>
 </html>
