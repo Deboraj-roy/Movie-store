@@ -10,15 +10,21 @@ namespace Movie_store.Controllers
         {
             _movieService = movieService;
         }
-        public IActionResult Index(string term = "", int currentPage = 1)
+        public IActionResult Index(string search = "", int currentPage = 1)
         {
-            var movies = _movieService.List(term, true, currentPage);
+            var movies = _movieService.List(search, true, currentPage);
             return View(movies);
         }
 
         public IActionResult About()
         {
             return View();
+        }
+        public IActionResult MovieDetail(int movieId)
+        {
+            var movie = _movieService.GetById(movieId);
+            return View(movie);
+
         }
     }
 }
