@@ -64,17 +64,17 @@ namespace Movie_store.Repositories.Implementation
             return ctx.Movie.Find(id);
         }
 
-        public MovieListVm List(string term = "", bool paging = false, int currentPage = 0)
+        public MovieListVm List(string search = "", bool paging = false, int currentPage = 0)
         {
             var data = new MovieListVm();
 
             var list = ctx.Movie.ToList();
 
 
-            if (!string.IsNullOrEmpty(term))
+            if (!string.IsNullOrEmpty(search))
             {
-                term = term.ToLower();
-                list = list.Where(a => a.Title.ToLower().StartsWith(term)).ToList();
+                search = search.ToLower();
+                list = list.Where(a => a.Title.ToLower().StartsWith(search)).ToList();
             }
 
             if (paging)

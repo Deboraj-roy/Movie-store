@@ -25,7 +25,7 @@ namespace Movie_store.Controllers
             {
                 Email = "admin@gmail.com",
                 UserName = "admin",
-                Name = "Ravindra",
+                Name = "DEBORAJ ROY",
                 Password = "Admin@123",
                 PasswordConfirm = "Admin@123",
                 Role = "Admin"

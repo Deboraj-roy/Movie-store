@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4AkMLc7VAhtp1TjmOe6Ax9Yes4wmRT9LVtaG4Y8393w=",
+  "Hash": "6clrrJ1atLyzr6WbX3L/DtBXxy5ha4Lp2pl3R7rnfDE=",
   "Source": "Movie_store",
   "BasePath": "_content/Movie_store",
   "Mode": "Default",
@@ -510,6 +510,23 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\328157e2-d147-41f4-b66d-0f7bd92550e3.jpg",
+      "SourceId": "Movie_store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\",
+      "BasePath": "_content/Movie_store",
+      "RelativePath": "Uploads/328157e2-d147-41f4-b66d-0f7bd92550e3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\328157e2-d147-41f4-b66d-0f7bd92550e3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\3acf8c1b-667b-4c34-9143-a02548e8f4a2.jpg",
       "SourceId": "Movie_store",
       "SourceType": "Discovered",
@@ -544,6 +561,40 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\6312ce87-bf71-4884-ba6b-e40d4580adcb.jpg"
     },
     {
+      "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\bcb1810d-5351-4777-8310-03d685473c6d.jpg",
+      "SourceId": "Movie_store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\",
+      "BasePath": "_content/Movie_store",
+      "RelativePath": "Uploads/bcb1810d-5351-4777-8310-03d685473c6d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\bcb1810d-5351-4777-8310-03d685473c6d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\c239fa5f-bf31-4c21-a26b-8b945a14a52b.jpg",
+      "SourceId": "Movie_store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\",
+      "BasePath": "_content/Movie_store",
+      "RelativePath": "Uploads/c239fa5f-bf31-4c21-a26b-8b945a14a52b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\c239fa5f-bf31-4c21-a26b-8b945a14a52b.jpg"
+    },
+    {
       "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\efdc41fd-bf07-404a-9b37-85bb46ca6d5e.jpg",
       "SourceId": "Movie_store",
       "SourceType": "Discovered",
@@ -559,6 +610,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\efdc41fd-bf07-404a-9b37-85bb46ca6d5e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\f6cc4e55-dc2f-4062-a981-6487a3503341.jpg",
+      "SourceId": "Movie_store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\",
+      "BasePath": "_content/Movie_store",
+      "RelativePath": "Uploads/f6cc4e55-dc2f-4062-a981-6487a3503341.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\f6cc4e55-dc2f-4062-a981-6487a3503341.jpg"
     }
   ]
 }
