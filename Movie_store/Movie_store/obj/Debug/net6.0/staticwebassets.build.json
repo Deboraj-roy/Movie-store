@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R4aQjFbgxfQXtlqVXJglimDoic5N1WU2hw9Pyw3r+fw=",
+  "Hash": "4AkMLc7VAhtp1TjmOe6Ax9Yes4wmRT9LVtaG4Y8393w=",
   "Source": "Movie_store",
   "BasePath": "_content/Movie_store",
   "Mode": "Default",
@@ -525,6 +525,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\3acf8c1b-667b-4c34-9143-a02548e8f4a2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\6312ce87-bf71-4884-ba6b-e40d4580adcb.jpg",
+      "SourceId": "Movie_store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\",
+      "BasePath": "_content/Movie_store",
+      "RelativePath": "Uploads/6312ce87-bf71-4884-ba6b-e40d4580adcb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\6312ce87-bf71-4884-ba6b-e40d4580adcb.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\Uploads\\efdc41fd-bf07-404a-9b37-85bb46ca6d5e.jpg",
+      "SourceId": "Movie_store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UseR\\source\\Git and GitHub\\Movie-store\\Movie_store\\Movie_store\\wwwroot\\",
+      "BasePath": "_content/Movie_store",
+      "RelativePath": "Uploads/efdc41fd-bf07-404a-9b37-85bb46ca6d5e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\efdc41fd-bf07-404a-9b37-85bb46ca6d5e.jpg"
     }
   ]
 }

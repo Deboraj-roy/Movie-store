@@ -5,8 +5,8 @@ using Movie_store.Repositories.Abstract;
 
 namespace Movie_store.Controllers
 {
-    /*[Authorize(Roles = "admin")]*/ 
-   public class GenreController : Controller
+    [Authorize]
+    public class GenreController : Controller
     {
         private readonly IGenreService _genreService;
         public GenreController(IGenreService genreService)

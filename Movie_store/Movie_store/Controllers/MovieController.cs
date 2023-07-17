@@ -1,11 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Movie_store.Models.Domain;
 using Movie_store.Repositories.Abstract;
 
 namespace Movie_store.Controllers
 {
-    /*[Authorize(Roles = "admin")]*/
+    [Authorize]
     public class MovieController : Controller
     {
         private readonly IMovieService _movieService;
