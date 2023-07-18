@@ -1,3 +1,4 @@
 # Movie-store
 Movie store MVC ASP .NET
-Live:http://deb.somee.com
+   Live 01:http://deb.somee.com
+   Live 02:https://kartik.bsite.net/
