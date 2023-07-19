@@ -1,0 +1,8 @@
+﻿
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+Copy c:/users/user/source/git and github/movie-store/movie_store/movie_store/bin/release/net6.0/publish .
+ENTRYPOINT ["dotnet", "Movie_store.dll"]
