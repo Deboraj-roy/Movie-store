@@ -9,65 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Movie_store
 build_property.RootNamespace = Movie_store
-build_property.ProjectDir = C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store\
+build_property.ProjectDir = E:\Github\Movie-store\Movie_store\Movie_store\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\UseR\source\Git and GitHub\Movie-store\Movie_store\Movie_store
+build_property.MSBuildProjectDirectory = E:\Github\Movie-store\Movie_store\Movie_store
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Genre/Add.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Genre/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Genre/Edit.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Genre/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Genre/GenreList.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Genre/GenreList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcR2VucmVMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Home/About.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Home/Index.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Home/MovieDetail.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Home/MovieDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZURldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Movie/Add.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Movie/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Movie/Edit.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Movie/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Movie/MovieList.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Movie/MovieList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Shared/Error.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/UserAuthentication/Login.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/UserAuthentication/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/_ViewImports.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/_ViewStart.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UseR/source/Git and GitHub/Movie-store/Movie_store/Movie_store/Views/Shared/_Layout.cshtml]
+[E:/Github/Movie-store/Movie_store/Movie_store/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ulequfhr4l

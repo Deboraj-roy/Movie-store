@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Movie_store.Models.Domain;
 using Movie_store.Repositories.Abstract;
 using Movie_store.Repositories.Implementation;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -45,4 +46,18 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+ApplyMigrations();
+
 app.Run();
+
+void ApplyMigrations()
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var _db = scope.ServiceProvider.GetRequiredService<DatabaseContext>();
+        if (_db.Database.GetPendingMigrations().Count() > 0)
+        {
+            _db.Database.Migrate();
+        }
+    }
+}

@@ -57,7 +57,7 @@ Follow these steps to run the project locally:
 
 ## Live Deployment
 
-The project is live and can be accessed at [Movie Store Live Project](https://moviestoredr.azurewebsites.net/)
+The project is live and can be accessed at [Movie Store Live Project](http://movie-store.runasp.net/Home/Index)
 
 ## Contributions
 

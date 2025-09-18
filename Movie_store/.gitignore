@@ -1,0 +1,30 @@
+**/.vs
+**/bin
+**/obj
+**/*.user
+**/Logs/*
+
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio folder
+.vs/
+
+# Rider IDE
+.idea/
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Publish output
+*.publish/
