@@ -1,6 +1,6 @@
 # Movie Store - MVC ASP.NET Project
 
-Welcome to the Dot Net Core MVC project repository! This project is a result of the in-depth guide provided in the YouTube tutorial titled "[Step by Step: Building a .NET Core MVC 6 Project](https://youtu.be/cQ3HH0MJqDs?si=5qjTAJLDDKpBcHzW)." The tutorial covers various aspects of building a .NET 6 MVC project from scratch, focusing on key topics such as authentication, admin panel implementation, server-side searching, pagination, and file handling. You can explore the live version of the project [here](https://moviestoredr.azurewebsites.net/).
+Welcome to the Dot Net Core MVC project repository! This project is a result of the in-depth guide provided in the YouTube tutorial titled "[Step by Step: Building a .NET Core MVC 6 Project](https://youtu.be/cQ3HH0MJqDs?si=5qjTAJLDDKpBcHzW)." The tutorial covers various aspects of building a .NET 6 MVC project from scratch, focusing on key topics such as authentication, admin panel implementation, server-side searching, pagination, and file handling. You can explore the live version of the project [here](http://movie-store.runasp.net/Home/Index).
 
 ## YouTube Tutorial
 
@@ -21,7 +21,7 @@ The Movie Store project is built with the aim of creating a functional and user-
 
 ## Live Project
 
-Check out the live version of the Movie Store project: [Movie Store Live Project](https://moviestoredr.azurewebsites.net/)
+Check out the live version of the Movie Store project: [Movie Store Live Project](http://movie-store.runasp.net/Home/Index)
 
 ## Getting Started
 
